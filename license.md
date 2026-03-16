@@ -23,7 +23,7 @@ You are NOT allowed to:
 
 ## Third-Party Assets
 
-This project includes assets derived from or inspired by:
+This project includes assets derived from the MTR UK Signals Resource Pack (MIT License).
 
 MTR UK Signals Resource Pack  
 https://modrinth.com/resourcepack/mtr-uk-signals
